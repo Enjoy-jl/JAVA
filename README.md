@@ -1,2 +1,2 @@
-# test
-To remamber the first use this toos.
+我希望能够学会使用这个工具
+我希望能够记录下我的学习知识点
